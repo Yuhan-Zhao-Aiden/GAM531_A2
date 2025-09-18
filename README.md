@@ -22,6 +22,8 @@ Custom classes for linear algebra operations
     ```
 2. Operations (Add, subtract, dot product, cross product)
     ```csharp
+    Vector v1 = new Vector(1, 2, 3);
+    Vector v2 = new Vector(4, 5, 6);
     v1 + v2
     v1 - v2
     v1 * v2
