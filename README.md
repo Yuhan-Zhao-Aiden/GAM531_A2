@@ -6,7 +6,7 @@ This repository demonstrates some linear algebra operations
 1. Clone the repo
 ```bash
 git clone https://github.com/Yuhan-Zhao-Aiden/GAM531_A2.git
-cd GAM521_A2
+cd GAM531_A2
 ```
 2. Run tests
 ```bash
