@@ -2,7 +2,10 @@ using System.Numerics;
 
 public class Vector
 {
-  float x, y, z;
+  public float x { get; }
+  public float y { get; }
+  public float z { get; }
+
 
   public Vector(float a, float b, float c)
   {
